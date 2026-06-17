@@ -1,18 +1,32 @@
+````md
 <h1 align="center">
-  Hey 👋 I'm Anahita Sodhi
+  Hi 👋, I'm Anahita Sodhi
 </h1>
 
 <h3 align="center">
-  🚀 Software Engineer | ☕ Java Full Stack Developer | 🤖 AI/ML Explorer
+  🚀 Software Developer | ☕ Java Full Stack | 🤖 AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Real+World+Applications;Exploring+Artificial+Intelligence;Creating+Beautiful+User+Experiences;Turning+Ideas+Into+Products" />
+  Building scalable applications, intelligent solutions, and meaningful digital experiences.
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anahita-sodhi&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00C9FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;AI%2FML+Explorer;Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+</p>
+
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -20,190 +34,209 @@
 
 # 👩‍💻 About Me
 
-```yaml
-name: Anahita Sodhi
-role: Software Developer
-education: B.Tech Electronics & Computer Engineering
 
-focus:
+```yaml
+Name: Anahita Sodhi
+
+Education:
+  B.Tech Electronics & Computer Engineering
+  Guru Nanak Dev University (2022-2026)
+
+Role:
+  Software Developer
+
+Passionate About:
   - Full Stack Development
   - Artificial Intelligence
   - Machine Learning
+  - Backend Engineering
   - Problem Solving
 
-currently_learning:
-  - Backend Architecture
-  - System Design
+Currently Exploring:
   - Advanced Java
-  - AI Applications
+  - System Design
+  - AI-powered Applications
+  - Scalable Backend Systems
 
-mission:
-  "Build technology that creates real impact 🚀"
-```
-
+Goal:
+  Build technology that solves real-world problems 🚀
+````
 
 ---
 
-# 🧰 Tech Universe
+# 🛠️ Tech Stack
 
+## 💻 Programming Languages
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js"/>
+</p>
 
-### 💻 Programming
+## 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+</p>
 
-### 🌐 Development
+* JSP
+* Servlets
+* JDBC
+* Flask
+* REST APIs
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql" />
+## 🗄️ Database
 
-### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+## 🤖 Artificial Intelligence & Machine Learning
 
-### 🛠 Tools
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Classification Algorithms
+* SVM
+* KMeans Clustering
+* Image Classification
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+## 🛠 Tools & Platforms
 
-</div>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-
-<table>
-<tr>
-
-<td width="50%">
-
-
 ## 🌟 DreamTrail
 
-🎯 Career guidance platform helping students choose their future paths.
+### Java Full Stack Career Guidance Platform
 
-**Built With**
+A platform designed to help students after 12th grade explore career opportunities and create personalized learning paths.
 
-☕ Java  
-🗄 MySQL  
-🌐 Full Stack Development
+### Features
 
+✅ Career Roadmaps
+✅ Role-Based Guidance
+✅ Course Recommendations
+✅ Company Insights
+✅ Student Assistance Chatbot (AI Integration)
 
-✨ Highlights
+### Tech Stack
 
-✔ Career Roadmaps  
-✔ Course Recommendations  
-✔ Role Exploration  
-✔ Student Guidance
+Java • JSP • Servlets • JDBC • MySQL • Bootstrap
 
+---
 
-</td>
+## 🤖 MentorGPT
 
+### AI Powered Career Mentorship Platform
 
-<td width="50%">
+An intelligent mentorship platform focused on personalized career guidance, skill recommendations, and learning roadmaps.
 
+### Features
 
-## 🤖 AI-ML Lab
+✅ AI-based Conversations
+✅ Career Suggestions
+✅ Skill Analysis
+✅ Personalized Learning Paths
 
-Machine Learning experiments and intelligent solutions.
+### Tech Stack
 
-**Built With**
+Python • AI/ML • NLP Concepts
 
-🐍 Python  
-📊 Data Science  
-🧠 ML Algorithms
+---
 
+## ⚡ SifarZero Enterprises
 
-✨ Includes
+Professional business website developed for a real-world electrical services company.
 
-✔ Classification Models  
-✔ SVM  
-✔ KMeans  
-✔ Image Processing
+### Highlights
 
+✅ Responsive UI
+✅ Business Branding
+✅ Client Requirement Implementation
 
-</td>
+### Technologies
 
-</tr>
+HTML • CSS • JavaScript • Bootstrap
 
-
-<tr>
-
-<td>
-
-
-## ⚡ SifarZero
-
-Professional business website created for real client requirements.
-
-
-✨ Features
-
-✔ Responsive Design  
-✔ Modern UI  
-✔ Business Branding  
-
-
-</td>
-
-
-<td>
-
+---
 
 ## 📚 GNDU NoteLine
 
-University resource sharing platform.
+A university-focused platform providing organized academic resources for students.
 
+### Highlights
 
-✨ Features
-
-✔ Academic Notes  
-✔ Student Resources  
-✔ Organized Learning
-
-
-</td>
-
-</tr>
-
-</table>
-
-
+✅ Student Resource Management
+✅ Easy Accessibility
+✅ Academic Content Organization
 
 ---
 
-# 🏆 Achievements
+# 💼 Experience
 
+## Web Developer
 
-<div align="center">
+### Cemcast Structures
 
+* Developed and deployed responsive company website.
+* Created modern layouts with mobile-first design.
+* Technologies: HTML, CSS, JavaScript, Bootstrap
 
-| Achievement | Recognition |
-|---|---|
-| 🌐 Google Developer Student Clubs Lead | GNDU Regional Campus |
-| 💻 Web Development Core Team | GDSC |
-| 🎤 Technical Event Host | University Events |
-| 🚀 Project Developer | Real-world Applications |
+## Website Developer
 
+### Grains Indian Cuisine
 
-</div>
+* Built restaurant website for a US-based client.
+* Customized WordPress layouts using Elementor.
+* Delivered client-focused UI experience.
 
+## Web Development Intern
 
+### Lally Infosys
+
+* Developed consultancy websites using WordPress and Elementor.
+* Gained practical industry development experience.
 
 ---
 
-# 📊 GitHub Performance
+# 🏆 Achievements & Leadership
 
+🏅 Google Developer Student Clubs Lead
+GNDU Regional Campus Jalandhar (2023-24)
+
+👩‍💻 President - Technical Community
+GNDU Regional Campus Jalandhar
+
+🥇 1st Position - Speech Competition
+Guru Nanak Dev University
+
+🥉 3rd Position - Coding Competition
+LKCTC
+
+🎤 Organized and hosted:
+
+* University Inauguration Events
+* Teej Festival
+* Independence Day Events
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anahita-sodhi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anahita-sodhi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anahita-sodhi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anahita-sodhi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 
 <p align="center">
 
@@ -211,61 +244,51 @@ University resource sharing platform.
 
 </p>
 
-
-
 ---
 
-# 🐍 Contribution Journey
-
+# 🐍 Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Anahita-sodhi/Anahita-sodhi/output/github-contribution-grid-snake.svg"/>
 </p>
 
+---
 
+# 📌 Current Focus
+
+```text
+🔥 Building production-ready applications
+
+🤖 Exploring AI-powered solutions
+
+☕ Strengthening Java Backend Development
+
+🧠 Improving Data Structures & Algorithms
+
+🚀 Creating impactful software products
+```
 
 ---
 
-# 🌱 Currently Building
-
-
-```
-🔥 Production-ready applications
-
-🤖 AI-powered solutions
-
-☕ Java backend systems
-
-🧠 Strong DSA foundation
-
-🎨 Better user experiences
-```
-
-
-
----
-
-# 🤝 Let's Connect
-
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
-
 <h3 align="center">
-✨ "Code. Create. Learn. Repeat." ✨
+✨ Code • Create • Learn • Innovate ✨
 </h3>
-
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+```
