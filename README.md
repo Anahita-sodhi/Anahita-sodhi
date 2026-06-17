@@ -1,116 +1,71 @@
 <h1 align="center">
-  Hi 👋, I'm Anahita Sodhi
+  Hey 👋 I'm Anahita Sodhi
 </h1>
 
 <h3 align="center">
-  Software Developer | Java Full Stack | AI/ML Enthusiast | Problem Solver
+  🚀 Software Engineer | ☕ Java Full Stack Developer | 🤖 AI/ML Explorer
 </h3>
 
 <p align="center">
-  Building scalable applications, intelligent systems, and impactful digital experiences 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Real+World+Applications;Exploring+Artificial+Intelligence;Creating+Beautiful+User+Experiences;Turning+Ideas+Into+Products" />
 </p>
+
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO">Portfolio</a> •
-  <a href="YOUR_EMAIL">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=Anahita-sodhi&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech Electronics & Computer Engineering Student
+```yaml
+name: Anahita Sodhi
+role: Software Developer
+education: B.Tech Electronics & Computer Engineering
 
-💻 Passionate about Software Engineering, Full Stack Development & Artificial Intelligence
+focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Problem Solving
 
-🚀 I build real-world applications combining clean UI, scalable backend systems, and intelligent solutions.
+currently_learning:
+  - Backend Architecture
+  - System Design
+  - Advanced Java
+  - AI Applications
 
-🌱 Currently exploring:
-- Advanced Java Development
-- Backend Engineering
-- Machine Learning
-- System Design
-
-
----
-
-## ⚡ What I Build
-
-💻 Full Stack Applications  
-🤖 Machine Learning Models  
-🌐 Responsive Web Experiences  
-📊 Data Driven Solutions  
-🎨 User-Centric Interfaces  
+mission:
+  "Build technology that creates real impact 🚀"
+```
 
 
 ---
 
-# 🛠 Tech Stack
+# 🧰 Tech Universe
 
 
-## Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🌐 Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql" />
 
+### 🤖 AI / ML
 
-## Web Development
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-HTML • CSS • JavaScript • Bootstrap
+### 🛠 Tools
 
-Java JSP • Servlets • JDBC
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
 
-REST APIs
-
-
-## Database
-
-MySQL  
-SQL
-
-
-## AI / Machine Learning
-
-Python
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-Scikit-Learn
-
-Machine Learning Algorithms:
-
-- Classification
-- Regression
-- SVM
-- KMeans Clustering
-- Image Classification
-
-
-## Tools
-
-Git
-
-GitHub
-
-VS Code
-
-IntelliJ IDEA
-
-Jupyter Notebook
-
-Figma
-
+</div>
 
 
 ---
@@ -118,58 +73,101 @@ Figma
 # 🚀 Featured Projects
 
 
+<table>
+<tr>
+
+<td width="50%">
+
+
 ## 🌟 DreamTrail
 
-Career guidance platform helping students explore career paths after 12th grade.
+🎯 Career guidance platform helping students choose their future paths.
 
-**Tech Stack:**
-Java Full Stack | MySQL
+**Built With**
 
-Features:
-- Career roadmaps
-- Role-based guidance
-- Course recommendations
-- Company insights
+☕ Java  
+🗄 MySQL  
+🌐 Full Stack Development
 
 
----
+✨ Highlights
 
-## 🤖 AI-ML Laboratory
-
-Collection of machine learning implementations.
-
-Projects:
-
-- Image Classification
-- Multi-Class Classification using SVM
-- KMeans Clustering
-- Data Analysis Projects
+✔ Career Roadmaps  
+✔ Course Recommendations  
+✔ Role Exploration  
+✔ Student Guidance
 
 
----
-
-## ⚡ SifarZero Enterprises
-
-Professional business website developed for an electrical services company.
-
-Highlights:
-
-- Responsive design
-- Business-focused UI
-- Client requirements implementation
+</td>
 
 
----
+<td width="50%">
+
+
+## 🤖 AI-ML Lab
+
+Machine Learning experiments and intelligent solutions.
+
+**Built With**
+
+🐍 Python  
+📊 Data Science  
+🧠 ML Algorithms
+
+
+✨ Includes
+
+✔ Classification Models  
+✔ SVM  
+✔ KMeans  
+✔ Image Processing
+
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>
+
+
+## ⚡ SifarZero
+
+Professional business website created for real client requirements.
+
+
+✨ Features
+
+✔ Responsive Design  
+✔ Modern UI  
+✔ Business Branding  
+
+
+</td>
+
+
+<td>
+
 
 ## 📚 GNDU NoteLine
 
-University-focused educational platform.
+University resource sharing platform.
 
-Features:
 
-- Notes management
-- Student resources
-- Organized academic content
+✨ Features
+
+✔ Academic Notes  
+✔ Student Resources  
+✔ Organized Learning
+
+
+</td>
+
+</tr>
+
+</table>
 
 
 
@@ -177,36 +175,71 @@ Features:
 
 # 🏆 Achievements
 
-🏅 Google Developer Student Clubs Lead  
-(GNDU Regional Campus Jalandhar)
 
-🌐 Core Web Development Team Member
-
-🎤 Technical Event Organizer & Anchor
-
-💡 Hackathon Participant
+<div align="center">
 
 
----
+| Achievement | Recognition |
+|---|---|
+| 🌐 Google Developer Student Clubs Lead | GNDU Regional Campus |
+| 💻 Web Development Core Team | GDSC |
+| 🎤 Technical Event Host | University Events |
+| 🚀 Project Developer | Real-world Applications |
 
-# 📊 GitHub Analytics
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anahita-sodhi&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anahita-sodhi&layout=compact&theme=tokyonight)
+</div>
 
 
 
 ---
 
-# 📈 Currently Working On
+# 📊 GitHub Performance
 
-🔹 Improving Data Structures & Algorithms  
-🔹 Building AI-powered applications  
-🔹 Learning Backend Architecture  
-🔹 Creating production-ready projects
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anahita-sodhi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anahita-sodhi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anahita-sodhi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+
+---
+
+# 🐍 Contribution Journey
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anahita-sodhi/Anahita-sodhi/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+
+---
+
+# 🌱 Currently Building
+
+
+```
+🔥 Production-ready applications
+
+🤖 AI-powered solutions
+
+☕ Java backend systems
+
+🧠 Strong DSA foundation
+
+🎨 Better user experiences
+```
 
 
 
@@ -214,11 +247,25 @@ Features:
 
 # 🤝 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/anahita-sodhi-3a85a1254/
 
-📧 Email: anahitasodhi@gmail.com
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+
+<h3 align="center">
+✨ "Code. Create. Learn. Repeat." ✨
+</h3>
 
 
 <p align="center">
-  ⭐ From Anahita Sodhi
+⭐ Thanks for visiting my profile!
 </p>
